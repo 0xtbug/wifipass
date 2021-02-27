@@ -8,6 +8,7 @@
        \/               |__|       \/     \/     \/ 
     
 ```
+A tools to view all saved wifi passwords in windows.
 # how to use
 > python main.py
 
